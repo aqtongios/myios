@@ -1,2 +1,3 @@
 mlds 在新平台中试运行 absdhahahha 
-tong
+tong Git is a distributed version control system.
+Git is free software distributed under the GPL.
