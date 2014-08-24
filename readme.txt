@@ -10,7 +10,6 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 hu pei still prefers SVN My stupid boss still prefers SVN.
 Creating a new branch is quick.
-<<<<<<< HEAD
 
-Creating a new branch is quick AND simple.
->>>>>>> feature1
+
+Creating a new branch is quick AND simple
